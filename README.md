@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/gh-profile-views?username=QIngYang1807&color=blueviolet&style=flat-square)
+![Profile Views](https://qingyang.ai)
 ![GitHub Followers](https://img.shields.io/github/followers/QIngYang1807?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/QIngYang1807?style=social)
 
@@ -109,12 +109,6 @@
 - 🏆 **高级大数据分析师** (2024年)
 - 🏆 **AI大模型技能认证** (2024年)
 - 🏆 **中级软件设计师** (2018年)
-- 🏆 **企业年度优秀二等奖** (2024年)
-
-### 学术荣誉
-- 🏆 **国家励志奖学金** (2018-2019年)
-- 🏆 **学院专业奖学金** (2017-2019年)
-- 🏆 **学生干部经历** (2016-2019年)
 
 ## 📊 GitHub 统计
 
