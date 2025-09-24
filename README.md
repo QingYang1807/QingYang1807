@@ -8,7 +8,7 @@
 
 **5年Java & 数据平台开发、3年AI数据应用经验** | **累计交付30万+数据集** | **19+ AI应用落地**
 
-[🌐 个人网站](https://qingyang.ai) • [📧 联系我](mailto:contact@qingyang.ai) • [💼 LinkedIn](https://linkedin.com/in/qingyang)
+[🌐 个人网站](https://qingyang.ai) • [📧 联系我](mailto:contact@qingyang.ai)
 
 </div>
 
