@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://qingyang.ai)
+![Profile Views](https://komarev.com/ghpvc/?username=QIngYang1807&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/QIngYang1807?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/QIngYang1807?style=social)
 
