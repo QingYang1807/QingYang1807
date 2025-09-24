@@ -147,8 +147,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-qingyang.ai-blue?style=for-the-badge&logo=vercel)](https://qingyang.ai)
-[![Email](https://img.shields.io/badge/Email-contact@qingyang.ai-red?style=for-the-badge&logo=gmail)](mailto:work@qingyang.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-qingyang-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/qingyang)
+[![Email](https://img.shields.io/badge/Email-work@qingyang.ai-red?style=for-the-badge&logo=gmail)](mailto:work@qingyang.ai)
 [![GitHub](https://img.shields.io/badge/GitHub-QIngYang1807-black?style=for-the-badge&logo=github)](https://github.com/QIngYang1807)
 
 </div>
